@@ -1,6 +1,5 @@
 def greet_player() -> str:
     name = input(
-        "Farewell Adventurer, welcome to the World of Asgard, please tell us your Name, Press Enter To Proceed\n"
         "Enter your nickname: "
     )
     if name == "":
